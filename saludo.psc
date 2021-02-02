@@ -9,7 +9,9 @@ Algoritmo saludo
 	// ahora muestre el segundo mensaje y obtenga el apellido
 	Escribir _____
 	Leer _____
-	// concatene el nombre y apellido leidos y asignelo a la variable
+	// concatene el nombre y apellido leidos y asígnelo a la variable
 	ncompleto _____ 
 	//presente en la pantalla un saludo al usuario con nombre y apellido
+	
+	
 FinAlgoritmo
